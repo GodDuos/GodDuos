@@ -1,6 +1,6 @@
 
 <p align="center">
-   <a href="https://n4dthoryxhihi.atabook.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Atabook-%20loj?style=for-the-badge&color=%20%235e3475">${\textsf{\color{#673369} - }}$ <a href="https://github.com/N4dthoryx"><img alt="Static Badge" src="https://img.shields.io/badge/Main%20Account-%20loj?style=for-the-badge&color=%23612d49">
+   <a href="https://n4dthoryxhihi.atabook.org/"><img alt="Static Badge" src="https://img.shields.io/badge/Atabook-%20loj?style=for-the-badge&color=%20%235e3475"> <a href="https://github.com/N4dthoryx"><img alt="Static Badge" src="https://img.shields.io/badge/Main%20Account-%20loj?style=for-the-badge&color=%23612d49">
 
 </p>
 <p align="center">
