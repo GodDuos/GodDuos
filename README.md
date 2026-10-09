@@ -8,6 +8,8 @@
   <img src="Untitled_design-removebg-preview.png" width="500">
 </p> 
 
-
-${\textsf{\color{#673369} Don't cry }}$  ${\textsf{\color{#3c2940} my precious person }}$ 
-
+</p>
+<p align="center">
+${\textsf{\color{#673369} Don't cry }}$ ${\textsf{\color{#3c2940} my precious person }}$
+  
+${\textsf{\color{#53275c} Ah }}$ ${\textsf{\color{#492a59} Reproachful }}$ ${\textsf{\color{#382538} Worthy saints }}$ 
