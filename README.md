@@ -1,4 +1,4 @@
-## Hi there 👋
+dont look at this ugli
 
 <!--
 **GodDuos/GodDuos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
